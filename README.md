@@ -1,6 +1,6 @@
 # Scrapy_Sence
 
-In this repository i share one posibility (the faster possibility for my) to obtain all the courses names automatically using Scrapy.
+In this repository i share one posibility (the faster possibility for me) to obtain all the courses names automatically using Scrapy.
 
 The URL that i scraper is:
 
